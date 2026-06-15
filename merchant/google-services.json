@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889891799101",
+    "project_id": "basicsbox-merchant",
+    "storage_bucket": "basicsbox-merchant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889891799101:android:46443dda81b4829372ea54",
+        "android_client_info": {
+          "package_name": "com.ematty246.merchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV-TXbwne4MOg2I5ilmU-QIIqNcRctkA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
